@@ -7,8 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/289839_253163614748199_2110371413_o_253163614748199.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # La Capsule
+
+
+      ## cabinet de curiosité
+
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
