@@ -24,4 +24,8 @@ sections:
       url: /store
       style: secondary
       arrow: true
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
 ---
